@@ -35,7 +35,7 @@ namespace dotnet_rpg
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            //temorary
             //app.UseHttpsRedirection();
 
             app.UseRouting();
